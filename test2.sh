@@ -4,4 +4,5 @@
 hostname
 ls -lrth
 
-uname -a
+cat /etc/issue
+ls -la
